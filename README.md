@@ -1,5 +1,4 @@
 # racetips
-\
 <ul>
 <li>allModels.sh         - runs through each model defined in raceModels.sh and generates the win/lose stats</li>
 <ul>
